@@ -1,0 +1,28 @@
+{
+    "default": {
+        "footer": {
+            "text": "Default Footer"
+        },
+        "fields": [],
+        "flags": 0,
+        "color": 3447003,
+        "description": "Default Description",
+        "title": "Default Title"
+    },
+    "welcome": {
+        "image": {
+            "url": "https://cdn.discordapp.com/attachments/1094606770485338245/1395049190870093844/B7967C19-BAC7-4835-B5BE-D7E23BB8B852.gif?ex=687c540d&is=687b028d&hm=3c9ba18f1ca3e86af7e92b556b6dfdc2adcebadfc48093ef0b433eff935c4150&"
+        },
+        "thumbnail": {
+            "url": "https://cdn.discordapp.com/attachments/1094606770485338245/1395049190870093844/B7967C19-BAC7-4835-B5BE-D7E23BB8B852.gif?ex=687c540d&is=687b028d&hm=3c9ba18f1ca3e86af7e92b556b6dfdc2adcebadfc48093ef0b433eff935c4150&"
+        },
+        "author": {
+            "name": "GARDENVERSE"
+        },
+        "flags": 0,
+        "color": 13610752,
+        "type": "rich",
+        "description": "We're thrilled to have you here! Plant, grow, and bloom with us. Let\u2019s build the most beautiful gardens together. \ud83c\udf3f Happy growing! Lets Welcome {mention}@Member",
+        "title": "Hola! {username} Welcome to GARDENVERSE!"
+    }
+}
