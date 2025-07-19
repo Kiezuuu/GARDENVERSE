@@ -1,0 +1,54 @@
+🌿 GARDENVERSE Bot Privacy Policy
+Last Updated: July 19, 2025
+
+Thank you for using GARDENVERSE, a Discord bot designed to enhance your community experience through trading, gardening activities, and moderation tools. Your privacy is important to us. This Privacy Policy explains how GARDENVERSE collects, uses, and protects your information.
+
+📌 1. Information We Collect
+GARDENVERSE only collects the minimal data necessary to operate its features effectively:
+
+User IDs (for commands and preferences)
+
+Guild (Server) IDs (to store server-specific settings)
+
+Channel IDs (for logging and announcements)
+
+Message content (only when required for command execution; not stored long-term)
+
+Role and permission data (to determine access to certain features)
+
+We do not collect or store personal information such as emails, passwords, or IP addresses.
+
+🔧 2. How We Use Your Information
+We use the collected data to:
+
+Provide personalized experiences (like greetings and role rewards)
+
+Configure server-specific settings (e.g., welcome messages, trading systems)
+
+Maintain functionality and improve performance
+
+Help prevent abuse or spam
+
+🛡️ 3. Data Storage & Security
+Data is stored securely using internal databases or JSON files.
+
+We use standard security practices to prevent unauthorized access.
+
+Only authorized developers have access to bot data.
+
+❌ 4. Data Sharing
+We do not share, sell, or distribute your data with any third parties.
+
+🗑️ 5. Data Retention & Deletion
+Data is retained only as long as it's necessary for bot operations.
+
+You may request the deletion of your server’s or user data by contacting the bot owner or using a data deletion command (if implemented).
+
+💬 6. Contact & Questions
+If you have any questions or concerns about this Privacy Policy, please contact the GARDENVERSE development team via:
+
+Discord: your-username#0000
+
+Server Support Channel: #bot-support
+
+By using GARDENVERSE, you agree to this privacy policy and understand that it may be updated from time to time. We will notify users in the support server if significant changes are made.
